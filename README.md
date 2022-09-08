@@ -26,11 +26,11 @@ Aqui estarão os códigos feitos durantes o semestre para as aulas e trabalhos d
 - <a href="#intro">Introdução</a>
 - <a href="#tecnologia">Tecnologias</a>
 - <a href="#exerc">Exercícios</a>
-  - <a href="#a1">Aula 1 - Revisão POO</a>
-  - <a href="#a2">Aula 2 - Gerenciamento de dependências</a>
-  - <a href="#a3">Aula 3 - Git e Github</a>
-  - <a href="#a4">Aula 4 - README</a>
-  - <a href="#a5">Aula 5 - API</a>
+  - <a href="#a1">Aula 2 - Revisão POO</a>
+  - <a href="#a2">Aula 3 - Gerenciamento de dependências</a>
+  - <a href="#a3">Aula 4 - Git e Github</a>
+  - <a href="#a4">Aula 5 - README</a>
+  - <a href="#a5">Aula 6 - API</a>
 - <a href="#footer">Rodapé</a>
 </div>
 
@@ -47,16 +47,16 @@ Aqui estarão os códigos feitos durantes o semestre para as aulas e trabalhos d
 <div>
 <h2 id="exerc" align="left">Exercícios 📚</h2>
 <div>
-    <h3 id="a1">Aula 1 - Revisão POO 🔎</h3>
+    <h3 id="a1">Aula 2 - Revisão POO 🔎</h3>
       <a>Implementar o código necessário para criar o diagrama abaixo: <br><br></a>
       <img align="center" alt="ReactJS" height="265" width="475" src="imagens/veiculo_diagrama.png">
-    <h3 id="a2">Aula 2 - Gerenciamento de dependências ⚙️</h3>
-      <a>Elaborar uma calculadora em que sejam realizadas diversas operações e que valide os tipos de variáveis.</a>
-    <h3 id="a3">Aula 3 - Git e Github 🔗</h3>
+    <h3 id="a2">Aula 3 - Gerenciamento de dependências ⚙️</h3>
+      Elaborar uma <a href="https://github.com/jvoliveirag/C214-Lab/tree/main/Aula3_Ger_Dependencias">calculadora</a> em que sejam realizadas diversas operações e que valide os tipos de variáveis.
+    <h3 id="a3">Aula 4 - Git e Github 🔗</h3>
       <a>Criar um repositório no GitHub com os códigos realizados para os exercícios entregues nas aulas.</a>
-    <h3 id="a4">Aula 4 - README 📝</h3>
+    <h3 id="a4">Aula 5 - README 📝</h3>
       <a>Criar um README elaborado para o repositório criado na aula anterior.</a>
-    <h3 id="a5">Aula 5 - API 📄</h3>
+    <h3 id="a5">Aula 6 - API 📄</h3>
       <a> Criar, no mínimo, 2 APIs REST de um CRUD básico de filme. Deve conter, ao menos, 4 parâmetros, como por exemplo: nome, produtora, atores, ano. Deve haver validação dos dados. </a>
 </div>
 <br>
