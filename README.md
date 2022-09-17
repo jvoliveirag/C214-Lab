@@ -57,7 +57,7 @@ Aqui estarão os códigos feitos durantes o semestre para as aulas e trabalhos d
     <h3 id="a4">Aula 5 - README 📝</h3>
       <a>Criar um README elaborado para o repositório criado na aula anterior.</a>
     <h3 id="a5">Aula 6 - API 📄</h3>
-      <a> Criar, no mínimo, 2 APIs REST de um CRUD básico de filme. Deve conter, ao menos, 4 parâmetros, como por exemplo: nome, produtora, atores, ano. Deve haver validação dos dados. </a>
+      <a> Criar, no mínimo, 2 APIs REST de um CRUD básico de filme. Deve conter, ao menos, 4 parâmetros, como por exemplo: nome, produtora, atores (protagonista), ano. Deve haver validação dos dados. </a>
 </div>
 <br>
 </div>
