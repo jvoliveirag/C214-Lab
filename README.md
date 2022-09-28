@@ -31,6 +31,7 @@ Aqui estarão os códigos feitos durantes o semestre para as aulas e trabalhos d
   - <a href="#a3">Aula 4 - Git e Github</a>
   - <a href="#a4">Aula 5 - README</a>
   - <a href="#a5">Aula 6 - API</a>
+  - <a href="#a6">Aula 7 - Teste</a>
 - <a href="#footer">Rodapé</a>
 </div>
 
@@ -58,6 +59,8 @@ Aqui estarão os códigos feitos durantes o semestre para as aulas e trabalhos d
       <a>Criar um README elaborado para o repositório criado na aula anterior.</a>
     <h3 id="a5">Aula 6 - API 📄</h3>
       Criar, no mínimo, 2 <a href="https://github.com/jvoliveirag/C214-Lab/tree/main/Aula6_API">APIs</a> REST de um CRUD básico de filme. Deve conter, ao menos, 4 parâmetros, como por exemplo: nome, produtora, atores (protagonista), ano. Deve haver validação dos dados.
+    <h3 id="a6">Aula 7 - Teste </h3>
+      Criar, no mínimo, 6 <a href="https://github.com/jvoliveirag/C214-Lab/tree/main/Aula6_API/test">casos de teste</a> unitários utilizando o framework Jest.
 </div>
 <br>
 </div>
