@@ -39,7 +39,7 @@ Aqui estarão os códigos feitos durantes o semestre para as aulas e trabalhos d
 <h2 id="tecnologia" align="left">Tecnologias 🚀</h2>
 
   <img align="center" alt="Js" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ReactJS" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Node" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 
  <br>
 
@@ -50,7 +50,7 @@ Aqui estarão os códigos feitos durantes o semestre para as aulas e trabalhos d
 <div>
     <h3 id="a1">Aula 2 - Revisão POO 🔎</h3>
       <a>Implementar o código necessário para criar o diagrama abaixo: <br><br></a>
-      <img align="center" alt="ReactJS" height="265" width="475" src="imagens/veiculo_diagrama.png">
+      <img align="center" height="265" width="475" src="imagens/veiculo_diagrama.png">
     <h3 id="a2">Aula 3 - Gerenciamento de dependências ⚙️</h3>
       Elaborar uma <a href="https://github.com/jvoliveirag/C214-Lab/tree/main/Aula3_Ger_Dependencias">calculadora</a> em que sejam realizadas diversas operações e que valide os tipos de variáveis.
     <h3 id="a3">Aula 4 - Git e Github 🔗</h3>
