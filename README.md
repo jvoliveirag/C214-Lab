@@ -43,9 +43,7 @@ Aqui estarão os códigos feitos durantes o semestre para as aulas e trabalhos d
   <img align="center" alt="Js" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Mongo" height="65" width="65" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
-  <img align="center" alt="Mongo" height="65" width="215" src="https://assets.stickpng.com/images/58481021cef1014c0b5e494b.png">
-
- <br>
+  <img align="center" alt="Mongo" height="85" width="135" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png">
 
 </div>
 <br>
