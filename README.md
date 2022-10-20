@@ -30,8 +30,10 @@ Aqui estarão os códigos feitos durantes o semestre para as aulas e trabalhos d
   - <a href="#a2">Aula 3 - Gerenciamento de dependências</a>
   - <a href="#a3">Aula 4 - Git e Github</a>
   - <a href="#a4">Aula 5 - README</a>
-  - <a href="#a5">Aula 6 - API</a>
-  - <a href="#a6">Aula 7 - Teste</a>
+  - <a href="#a5">Aula 6 - API básica</a>
+  - <a href="#a6">Aula 7 - Teste Unitário</a>
+  - <a href="#a7">Aulas 8 e 9 - API com CRUD completo e testes Mock</a>
+  - <a href="#a8">Aula 10 - GitHub Actions</a>
 - <a href="#footer">Rodapé</a>
 </div>
 
@@ -39,7 +41,9 @@ Aqui estarão os códigos feitos durantes o semestre para as aulas e trabalhos d
 <h2 id="tecnologia" align="left">Tecnologias 🚀</h2>
 
   <img align="center" alt="Js" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Node" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Mongo" height="65" width="65" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
+  <img align="center" alt="Mongo" height="65" width="215" src="https://assets.stickpng.com/images/58481021cef1014c0b5e494b.png">
 
  <br>
 
@@ -57,10 +61,15 @@ Aqui estarão os códigos feitos durantes o semestre para as aulas e trabalhos d
       <a>Criar um repositório no GitHub com os códigos realizados para os exercícios entregues nas aulas.</a>
     <h3 id="a4">Aula 5 - README 📝</h3>
       <a>Criar um README elaborado para o repositório criado na aula anterior.</a>
-    <h3 id="a5">Aula 6 - API 📄</h3>
+    <h3 id="a5">Aula 6 - API básica 📄</h3>
       Criar, no mínimo, 2 <a href="https://github.com/jvoliveirag/C214-Lab/tree/main/Aula6_API">APIs</a> REST de um CRUD básico de filme. Deve conter, ao menos, 4 parâmetros, como por exemplo: nome, produtora, atores (protagonista), ano. Deve haver validação dos dados.
-    <h3 id="a6">Aula 7 - Teste </h3>
+    <h3 id="a6">Aula 7 - Teste 🧪</h3>
       Criar, no mínimo, 6 <a href="https://github.com/jvoliveirag/C214-Lab/tree/main/Aula6_API/test">casos de teste</a> unitários utilizando o framework Jest.
+    <h3 id="a7">Aulas 8 e 9 - API com CRUD completo e testes Mock 🔬</h3>
+      Com os conhecimentos adquiridos sobre criação de APIs REST, construção de CRUD, testes unitários, testes mock e GIT, criar todas as funções básicas de um CRUD de CARRO e realizar todos os testes necessários (unitários e mock). Para conferir o projeto clique <a href="https://github.com/jvoliveirag/API-C214-LAB">aqui</a>.
+    <h3 id="a8">Aula 10 - GitHub Actions ⚠️</h3>
+      Utilizando o exercício realizado nas aulas 8 e 9, realize a Integração Contínua/Entrega Contínua (CI/CD) com GitHub Actions, conforme ensinado em aula, no <a href="https://github.com/jvoliveirag/API-C214-LAB">repositório</a> garantindo o funcionamento correto desse recurso.
+
 </div>
 <br>
 </div>
