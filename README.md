@@ -34,6 +34,7 @@ Aqui estarão os códigos feitos durantes o semestre para as aulas e trabalhos d
   - <a href="#a6">Aula 7 - Teste Unitário</a>
   - <a href="#a7">Aulas 8 e 9 - API com CRUD completo e testes Mock</a>
   - <a href="#a8">Aula 10 - GitHub Actions</a>
+  - <a href="#a9">Aula 11 - Design Patterns</a>
 - <a href="#footer">Rodapé</a>
 </div>
 
@@ -67,6 +68,8 @@ Aqui estarão os códigos feitos durantes o semestre para as aulas e trabalhos d
       Com os conhecimentos adquiridos sobre criação de APIs REST, construção de CRUD, testes unitários, testes mock e GIT, criar todas as funções básicas de um CRUD de CARRO e realizar todos os testes necessários (unitários e mock). Para conferir o projeto clique <a href="https://github.com/jvoliveirag/API-C214-LAB">aqui</a>.
     <h3 id="a8">Aula 10 - GitHub Actions ⚠️</h3>
       Utilizando o exercício realizado nas aulas 8 e 9, realize a Integração Contínua/Entrega Contínua (CI/CD) com GitHub Actions, conforme ensinado em aula, no <a href="https://github.com/jvoliveirag/API-C214-LAB">repositório</a> garantindo o funcionamento correto desse recurso.
+    <h3 id="a9">Aula 11 - Design Patterns 🏁</h3>
+      Criar uma classe/função convencional e uma factory que façam a mesma coisa. Clique <a href="https://github.com/jvoliveirag/C214-Lab/tree/main/Aula11_Design_Pattern">aqui</a> para conferir.
 
 </div>
 <br>
