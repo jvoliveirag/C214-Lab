@@ -73,7 +73,7 @@ Aqui estarão os códigos feitos durantes o semestre para as aulas e trabalhos d
     <h3 id="a9">Aula 11 - Design Patterns 🏁</h3>
       Criar uma classe/função convencional e uma factory que façam a mesma coisa. Clique <a href="https://github.com/jvoliveirag/C214-Lab/tree/main/Aula11_Design_Pattern">aqui</a> para conferir.
     <h3 id="a10">Aulas 12 e 13 - React ⚛️</h3>
-      Criar duas pages: uma para listar todos os carros e uma para listar os carros por placa.
+      Criar duas pages: uma para listar todos os carros e uma para listar os carros por placa. Clique <a href="https://github.com/jvoliveirag/Basic-React">aqui</a> para conferir.
 </div>
 <br>
 </div>
